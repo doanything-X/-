@@ -1,0 +1,7 @@
+{
+  "name": "RetroSnap AI",
+  "description": "A desktop-grade Polaroid-style camera booth that applies vintage filters and uses Gemini Vision to generate witty handwritten captions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
